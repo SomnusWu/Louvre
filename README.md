@@ -10,6 +10,8 @@
 # Louvre
 A small customizable image picker. Useful to handle an gallery image pick action built-in your app.
 
+相册选择！
+
 ![Sample](https://raw.githubusercontent.com/andremion/Louvre/master/art/sample.gif)
 
 **Images from Google Image Search*
